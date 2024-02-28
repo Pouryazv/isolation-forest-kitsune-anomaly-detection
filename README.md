@@ -1,7 +1,7 @@
 
 # Isolation Forest for Anomaly Detection on Kitsune Network Attack Dataset
 
-This repository contains the implementation of Isolation Forest for anomaly detection on the Kitsune Network Attack Dataset. Isolation Forest is an effective algorithm for detecting outliers and anomalies in datasets, including network traffic data. The Kitsune dataset contains network traffic data with labeled attacks, making it suitable for evaluating anomaly detection algorithms.
+This repository contains the implementation of Isolation Forest for anomaly detection on the Kitsune Network Attack Dataset. Isolation Forest is an effective algorithm for detecting outliers and anomalies in datasets, including network traffic data. The Kitsune dataset contains network traffic data with labeled attacks, making it suitable for evaluating anomaly detection algorithms. This project was developed as a final project for my University Machine Learning course.
 
 ## About Isolation Forest
 
