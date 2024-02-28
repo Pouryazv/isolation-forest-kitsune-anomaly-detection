@@ -15,7 +15,7 @@ The Kitsune Network Attack Dataset contains network traffic data collected from 
 
 ## Results
 
-The script will output various metrics such as precision, recall, F1-score, and ROC AUC to evaluate the performance of the Isolation Forest model on detecting anomalies in the Kitsune dataset.
+The notebook provides a step-by-step explanation of the Isolation Forest algorithm implementation, including data preprocessing, model training, evaluation, and visualization of results. Additionally, it discusses the performance of the model in detecting anomalies in the Kitsune Network Attack Dataset.
 
 ## License
 
