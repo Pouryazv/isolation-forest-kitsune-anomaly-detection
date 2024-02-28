@@ -11,28 +11,7 @@ Isolation Forest is an unsupervised learning algorithm that isolates observation
 
 The Kitsune Network Attack Dataset contains network traffic data collected from a simulated network environment, including normal traffic and various types of attacks. The dataset is labeled, with each data point categorized as either normal or anomalous.
 
-## Usage
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/isolation-forest-kitsune.git
-cd isolation-forest-kitsune
-```
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Download the Kitsune Network Attack Dataset from the official source and place it in the `data` directory.
-
-4. Run the `isolation_forest_kitsune.py` script to train the Isolation Forest model and evaluate its performance on the Kitsune dataset:
-
-```bash
-python isolation_forest_kitsune.py
-```
 
 ## Results
 
