@@ -38,17 +38,6 @@ python isolation_forest_kitsune.py
 
 The script will output various metrics such as precision, recall, F1-score, and ROC AUC to evaluate the performance of the Isolation Forest model on detecting anomalies in the Kitsune dataset.
 
-## References
-
-- Liu, Fei Tony, Ting, Kai Ming, and Zhou, Zhi-Hua. "Isolation forest." In Proceedings of the 2008 eighth IEEE international conference on data mining, pp. 413-422. IEEE, 2008.
-- Kitsune Network Attack Dataset: [Link to dataset](https://example.com)
-
-## Contributors
-
-- Your Name (@your-github-username)
-- Collaborator 1 (@collaborator1-github-username)
-- Collaborator 2 (@collaborator2-github-username)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
